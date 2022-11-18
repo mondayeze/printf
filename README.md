@@ -1,3 +1,3 @@
 **0X11. C PRINTF**
 
-This is a collaboration project between Thom........
+This is a first collaboration project between Thom Phiri and Eze Innocent Monday Innocent on ALX
